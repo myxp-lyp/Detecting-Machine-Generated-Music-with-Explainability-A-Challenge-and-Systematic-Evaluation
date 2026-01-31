@@ -1,4 +1,4 @@
-# Detecting-Machine-Generated-Music-with-Explainability-A-Challenge-and-Early-Benchmarks
+# Detecting-Machine-Generated-Music-with-Explainability-A-Challenge-and-Early-Systematic-Evaluation
 
 This is the github repo for paper: https://arxiv.org/abs/2412.13421
 
